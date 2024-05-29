@@ -1,9 +1,0 @@
-{
-    "id": "raintest",
-    "name": "RWTM - Rain World Testing Mod",
-    "authors": "GasFurr",
-    "description": "mod that for things i want to test <LINE> there is everything. <LINE> and nothing.",
-    "requirements": ["slime-cubed.slugbase", "iteratorKit", "moreslugcats", "rwremix"],
-    "requirements_names": ["SlugBase", "Iterator Kit", "Downpour DLC", "Rain World Remix"],
-    "checksum_override_version": true
-}
